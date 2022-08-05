@@ -34,6 +34,7 @@ rebase
 
 git rebase new
 
+
 git rebase --continue
 
 git rebase --abort
