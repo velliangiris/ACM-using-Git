@@ -1,0 +1,63 @@
+git config user.name "Velliangiri Sarveshwaran"
+
+git config user.email "velliangiris@gmail.com"
+
+Branch
+
+git branch new
+
+git checkout new
+
+git branch
+
+Committing
+
+git commit -a
+
+merge git merge main
+
+git merge --squash
+
+pull
+
+git pull
+
+git pull --quiet
+
+git pull --squash
+
+git pull --no-commit
+
+git pull --no-ff
+
+rebase
+
+git rebase new
+
+git rebase --continue
+
+git rebase --abort
+
+status
+
+git status
+
+add
+
+git add hello.txt
+
+init
+
+git init hello1
+
+clone
+
+git clone https://github.com/velliangiris/infrastructure-as-code-terraform
+
+deleting branch
+
+git branch -d 2(branch name)
+
+branch merge
+
+git merge main
